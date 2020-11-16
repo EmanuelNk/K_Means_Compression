@@ -1,4 +1,4 @@
-# K Means Python implementation
+# K Means full Python implementation
 
 Full Python Implementation of the K Means algorithm using python (for .wav file compression)
 
